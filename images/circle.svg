@@ -1,0 +1,15 @@
+
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink"
+ width="200" height="200" viewBox="0 0 200 200">
+  <g id="circle" transform="translate(-478 -302)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(478 502) rotate(-90)" fill="#fff" stroke="#707070" stroke-linecap="round" stroke-width="14" stroke-dasharray="314 3000">
+      <circle cx="100" cy="100" r="100" stroke="none"/>
+      <circle cx="100" cy="100" r="93" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(481 499) rotate(-90)" fill="none" stroke="#3b40d4" stroke-linecap="round" stroke-width="8" stroke-dasharray="303 3000">
+      <circle cx="97" cy="97" r="97" stroke="none"/>
+      <circle cx="97" cy="97" r="93" fill="none"/>
+    </g>
+  </g>
+</svg>
