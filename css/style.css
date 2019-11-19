@@ -748,7 +748,12 @@ font-weight: 600;
 }
 
 
-
+/*search wrapper box*/
+.search-wrapper{
+ width: 50%;
+    float: left;
+    position: relative;
+}
 
 
 
