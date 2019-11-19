@@ -113,7 +113,7 @@
 	
 }
 .fo-input{
-	width: 50%;
+	width: 100%;
 	border: none;
 	margin-top: 70px;
 	border-radius: 50px;
@@ -122,17 +122,15 @@
 	text-transform: capitalize;
 	color: grey;
 	box-shadow:1px 1px 7px #ddd;
-	position: absolute;
-	z-index: 1;
-	
-	margin-right: 40px;
-
+	/* position: relative; */
+	/* z-index: 1; */
+	/* margin-right: 40px; */
 }
 .fo-icon{
 	margin-left: 10px;
 }
 .fo-box{
-	float: left;
+	/* float: left; */
 }
 .info-btn{
 	border-radius: 50px;
@@ -143,20 +141,19 @@
 	background:  blue;
 	text-transform: capitalize;
 	border: none;
-	position: relative;
-	z-index: 2;
-	margin-left: 400px;
-	margin-top: 70px;
+	position: absolute;
+	/* z-index: 2; */
+	/* margin-left: 400px; */
+	/* margin-top: inherit; */
 	box-shadow: 1px 1px 7px #5f69b3;
-	
+	right: 0;
+	bottom: 0;
 }
 .search-btn{
 	position: absolute;
 	z-index: 3;
-	margin-top: 80px;
+	margin-top: -33px;
 	margin-left: 10px;
-	
-
 }
 .round-btn {
 	float: right;
